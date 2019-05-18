@@ -1,7 +1,7 @@
 # Digits Planet
 
 #### 遊戲介紹：
-* [遊戲網站](https://kittykung.github.io/DP/DigitsPlanet.html#header1-1)
+* [Digits Planet Website](https://kittykung.github.io/DP/DigitsPlanet.html#header1-1)
 * 可透過網站下載APK
 
 
