@@ -15,25 +15,25 @@
 
 * 主畫面
 	
-	![Imgur](https://i.imgur.com/oXXxGzJ.jpg)
+	![Imgur](https://i.imgur.com/oXXxGzJ.jpg?1)
 
 
 
 * 遊戲大廳畫面(1)
 
-	![Imgur](https://i.imgur.com/IeCjKtz.jpg)
+	![Imgur](https://i.imgur.com/IeCjKtz.jpg?1)
 
 
 	
 * 遊戲大廳畫面(2)
 
-    ![Imgur](https://i.imgur.com/vGXiip8.jpg)
+    ![Imgur](https://i.imgur.com/vGXiip8.jpg?1)
 
 
 
 * 遊戲大廳畫面(3)	
 	
-	![Imgur](https://i.imgur.com/uEb6rQB.jpg)
+	![Imgur](https://i.imgur.com/uEb6rQB.jpg?1)
 	
 	
 	
@@ -57,10 +57,13 @@
 
 * 玩家大頭貼
 	
-	![Imgur](https://i.imgur.com/TGeyGU4.jpg)
+	![Imgur](https://i.imgur.com/TGeyGU4.jpg?1)
 
 
 	
 * 遊戲設定
 	
-	![Imgur](https://i.imgur.com/P56s8yT.jpg)
+	![Imgur](https://i.imgur.com/P56s8yT.jpg?1)
+
+	
+	
