@@ -1,10 +1,19 @@
 # Digits Planet
 
 #### 遊戲介紹：
+* 數字星球是一款將打地鼠以及數學結合，於數位遊戲式學習為基礎的遊戲app，
+ 每顆星球都代表著一種運算方式，隨著關卡地圖的解鎖，經驗的累積，
+ 玩家們將前往旅途的終點了解數學的奧妙
+
 * [Digits Planet Website](https://kittykung.github.io/DP/DigitsPlanet.html#header1-1)
 * 可透過網站下載APK
 
 
+
+#### 系統功能：
+* 透過三種不同運算方式設計的打地鼠
+* 本地排行榜 + Facebook排行榜
+* 基本遊戲設定
 
 #### 系統建置：
 * C# + Unity
